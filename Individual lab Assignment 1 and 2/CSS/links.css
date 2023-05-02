@@ -1,0 +1,15 @@
+.wrapper-re {
+  width: 570px;
+}
+
+.all-wrapper {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  column-gap: 50px;
+}
+
+.desc-links {
+  margin-top: 7px;
+  font-size: 14px;
+  color: #7e7e7e;
+}

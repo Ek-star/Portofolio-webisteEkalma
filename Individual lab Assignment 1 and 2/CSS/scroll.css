@@ -1,0 +1,21 @@
+/* .all-wrapper {
+  overflow: scroll;
+} */
+
+.all-wrapper {
+  margin-left: 20px;
+  display: grid;
+  grid-template-columns: repeat(2, 560px);
+}
+
+.desc-links {
+  margin-top: 7px;
+  font-size: 14px;
+  color: #7e7e7e;
+}
+
+.all-section {
+  display: grid;
+  grid-template-columns: 450px 1fr;
+  grid-template-rows: 120px 2100px 200px;
+}

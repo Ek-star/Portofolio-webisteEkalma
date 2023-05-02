@@ -1,0 +1,17 @@
+.wrapper-re {
+  width: 1000px;
+  display: flex;
+  flex-direction: row-reverse;
+  align-items: center;
+  gap: 20px;
+}
+
+.name {
+  font-weight: 500;
+}
+
+.heading-in-first-card {
+  font-size: 25px;
+  margin-bottom: 22px;
+  margin-top: 12px;
+}
